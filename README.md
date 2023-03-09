@@ -14,6 +14,7 @@
 
 - [transformer-for-qwerty](https://github.com/HuberWong/transformer-for-qwerty)：向 [qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) 自动导入自己的欧陆词典生词本
 - [spider-of-AITopics.org](https://github.com/HuberWong/spider-of-AITopics.org)：爬取 [AITopics.org](https://aitopics.org/search) 的新闻到 Excel
+- [wsl2-proxy](https://github.com/HuberWong/wsl2-proxy)：WSL2 Ubuntu 22.04 的代理设置脚本
 
 
 <!--
