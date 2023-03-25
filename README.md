@@ -2,7 +2,7 @@
 
 - 🔭 我就读于天津理工大学信息安全专业，是一名大三学生
 - 🌱 正在学习 iOS 开发的相关技术
-- 👯 目前正在寻找一份 iOS 开发相关的实习，这是我的[简历](https://github.com/HuberWong/huber-resume)
+<!-- - 👯 目前正在寻找一份 iOS 开发相关的实习，这是我的[简历](https://github.com/HuberWong/huber-resume) -->
 - 你可以通过 [huberwong@163.com](mailto:huberwong@163.com) 联系我，叫我 huber（ /ˈhjʊ:bə(:ɜt/） 或者小王就好
 
 
